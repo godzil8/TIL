@@ -10,7 +10,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'error',
   favicon: 'img/favicon.ico',
-  organizationName: 'til.godzil8.dev', // Usually your GitHub org/user name.
+  organizationName: 'godzil8', // Usually your GitHub org/user name.
   projectName: 'til', // Usually your repo name.
   trailingSlash: false,
   themeConfig: {
