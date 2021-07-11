@@ -5,12 +5,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://godzil8.til.dev',
+  url: 'https://til.godzil8.gdev',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'error',
   favicon: 'img/favicon.ico',
-  organizationName: 'godzil8', // Usually your GitHub org/user name.
+  organizationName: 'til.godzil8.dev', // Usually your GitHub org/user name.
   projectName: 'til', // Usually your repo name.
   trailingSlash: false,
   themeConfig: {
