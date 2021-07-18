@@ -6,7 +6,7 @@ module.exports = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://godzil8.github.io',
-  baseUrl: '/',
+  baseUrl: '/til/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'error',
   favicon: 'img/favicon.ico',
